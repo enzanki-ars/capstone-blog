@@ -1,0 +1,12 @@
+# Site settings
+title: Senior Capstone - Finding a College with Code
+description: "Jacob Sims's capstone for the 2015-2016 school year."
+meta_description: "The blog for Jacob Sims's Senior Capstone for 2015-2016"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://jacobsims.github.io" # the base hostname & protocol for your site
+github_username: jacobsims
+footer_column_1: ""
+paginate: 4
+
+# Build settings
+markdown: kramdown
