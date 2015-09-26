@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Using Go"
+date:   2015-09-26 15:02:20
+categories: blog
+---
+
+I am making the webapp project using [Go](https://golang.org), a modern compiled language. It's great for making webapps; for my project, I'm using the HTTP server and templating engine from the standard library.
+
+Go has a good balance between being easy to write and fast to run. It doesn't have as many features as a language like Python, but it is much faster.
