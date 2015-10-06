@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Dataset"
+date:   2015-10-04 14:23:19
+categories: blog
+---
+
+Having quality data is essential to a project like the one I am creating. With to little data, or worse, incorrect data, the app ends up being useless.
+
+Luckily, there is a good dataset from the U.S. Department of Education that works perfectly for my app. It is available at [https://collegescorecard.ed.gov/data/](https://collegescorecard.ed.gov/data/). The data is free to download for anyone who is interested and available in CSV format. I used the "Most recent data" file, which did not include the data for previous years; while the older data is helpful for analyzing trends, it is not as beneficial for making a current decision (and not worth the extra 46 MB).
+
+The "most recent data" was smaller than using all the data, but it would still be slow to load in and process 124 MB of CSV data every time the program runs. So I made a program to save only the columns that are needed, and used only those columns as input into the webapp to parse. This saves time at program startup by condensing it down to about 2 MB.
