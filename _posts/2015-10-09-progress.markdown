@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Progress"
+date:   2015-10-09 17:43:14
+categories: blog
+---
+
+It's about time that I post a status update (I haven't done one yet because it's more fun just to work on the project).
+
+Here's a screenshot of the app as it currently stands:
+
+[![CollegeFinder screenshot as of Oct 9](/assets/Screenshot-2015-10-09.png)](/assets/Screenshot-2015-10-09.png)
+
+There is still some work left to do, but the basic functionality and styling is all there.
+
+Right now, you can:
+
+- Filter the colleges by their names
+- Choose how to sort them (by ACT or tuition price)
+- Filter by the main degree they give (bachelor's or associate's degrees)
+- Filter by the state they are located in
+
+The next things I plan to do are:
+
+- Allow matching by acronym for searches (for example, searching for "osu" will match "Ohio State University")
+- Improve data display for each college (right now, it only shows price and average ACT)
+- Give each college its own webpage, so you can see even more information about it
+- Split the results into pages so the page isn't too big
+
+Hopefully, when I'm done, the app will be useful for anyone trying to find the college that best fits them.
