@@ -9,7 +9,7 @@ It's about time that I post a status update (I haven't done one yet because it's
 
 Here's a screenshot of the app as it currently stands:
 
-[![CollegeFinder screenshot as of Oct 9](/assets/Screenshot-2015-10-09.png)](/assets/Screenshot-2015-10-09.png)
+[![CollegeFinder screenshot as of Oct 9]({{ site.url }}/assets/Screenshot-2015-10-09.png)]({{ site.url }}/assets/Screenshot-2015-10-09.png)
 
 There is still some work left to do, but the basic functionality and styling is all there.
 
