@@ -36,7 +36,7 @@ __Was this a meaningful experience? Why or why not?__
 Yes, it was. I ended up gaining more experience than I expected, and learning useful things about the world of software engineering.
 
 __What new knowledge or skills did you learn from this experience?__  
-For one thing, I learned how to use the Go programming language, and the web application server that comes with it. I also learned how to use [first-class functions](http://jacobsims.github.io/blog/2015/10/07/first-class-functions.html) for filtering and sorting the colleges.
+For one thing, I learned how to use the Go programming language, and the web application server that comes with it. I also learned how to use [first-class functions](http://jacobsims.github.io/capstone-blog/blog/2015/10/07/first-class-functions.html) for filtering and sorting the colleges.
 
 __How would you do it differently if you had to start over?__  
 I don't know that I'd make a whole lot of changes. Really, the only thing I would do is structure the project differently. Because I didn't take much time to plan it, I ended up with less separation of concerns than I had hoped for. Ideally, each part of the project would have its own package and, if necessary, be separated into multiple files. For a small project, what I did wasn't a completely bad choice, but the use of multiple packages would allow for better separation of concerns.
