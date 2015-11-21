@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The Final Product"
+date:   2015-11-21 09:15:04
+categories: blog
+---
+
+[![Visit the CollegeFinder site online]({{ site.baseurl }}/assets/collegefinder_button.png)](https://go-jacobscapstone.rhcloud.com)
+
+My capstone project is now available online at [https://go-jacobscapstone.rhcloud.com](https://go-jacobscapstone.rhcloud.com)! If the application has been idled, it may not work the first time you try it. Just wait a minute or so and try again, and you will be able to access it.
+
+Here's a screenshot:
+
+[![Final screenshot]({{ site.baseurl }}/assets/final-screen.png)]({{ site.baseurl }}/assets/final-screen.png)
+
+---
+
+If you're here to look at my capstone experience information, please check the [About My Capstone]({{ site.baseurl }}/about/) page.
