@@ -10,7 +10,7 @@ Jacob Sims
 |__Title__|Finding a College with Code|
 |__Description__|For this project, I made a web application that will help high school students find colleges that fit them.|
 |__Started__|2015-09-22|
-|__Ended__|2015-??-??|
+|__Ended__|2015-11-21|
 
 ---
 
